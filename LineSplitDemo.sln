@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineSplitDemo", "LineSplitDemo\LineSplitDemo.csproj", "{79DC5E20-E6F7-4B61-9F19-54C52F014884}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79DC5E20-E6F7-4B61-9F19-54C52F014884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79DC5E20-E6F7-4B61-9F19-54C52F014884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79DC5E20-E6F7-4B61-9F19-54C52F014884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79DC5E20-E6F7-4B61-9F19-54C52F014884}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24B13249-7499-4FF5-839C-8BD9E82B70FB}
+	EndGlobalSection
+EndGlobal
